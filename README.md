@@ -1,1 +1,1 @@
-# Starting with an existing Excel table of 4,000 Kickstarter projects, used conditional formatting to change colors of various cells per input conditions. Split columns into two based on seperation points. Created a pivot table based on the success or failure of various campaigns. 
+Starting with an existing Excel table of 4,000 Kickstarter projects, used conditional formatting to change colors of various cells per input conditions. Split columns into two based on seperation points. Created a pivot table based on the success or failure of various campaigns. 
